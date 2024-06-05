@@ -36,14 +36,13 @@ export default function App() {
                                 </div>
                                 <div className="w-64 flex h-14 my-3  pt-2.5 pb-2 bg-slate-900 rounded-2xl border-2 -mr-2 ">
                                     <img src={apple} alt="Icon 1" className='w-8 h-8 mr-4'/>
-                                    <div className="text-white text-xl font-medium mr-4 ">دریافت
-                                        اندروید
+                                    <div className="text-white text-xl font-medium mr-4 ">دریافت ios
                                     </div>
                                 </div>
                                 <div className="w-64 h-14  flex pt-2.5 pb-2 bg-slate-900 rounded-2xl border-2 -mr-2 ">
                                     <img src={web} alt="Icon 1" className='w-8 h-8 mr-4'/>
-                                    <div className="text-white text-xl font-medium mr-4 ">دریافت
-                                        اندروید
+                                    <div className="text-white text-xl font-medium mr-4 ">
+                                    دریافت نسخه وب
                                     </div>
                                 </div>
                             </li>

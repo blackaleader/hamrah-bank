@@ -1,6 +1,5 @@
 import React from 'react';
 import frame from '../assets/images/Frame1.png';
-import downloadIcon from '../assets/images/download.svg';
 
 const HeroSection = () => {
     return (

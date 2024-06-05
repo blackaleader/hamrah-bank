@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import ReactDOM from 'react-dom';
 import icon from '../assets/images/dropbutton.svg'
 import icon2 from '../assets/images/dropup.svg'
 import '../index.css';
-import SubmissionForm from "./Registration"; // Ensure Tailwind CSS is imported here
 
 const Question = ({ question, description }) => {
     const [isOpen, setIsOpen] = useState(false);

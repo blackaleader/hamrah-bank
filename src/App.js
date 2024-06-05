@@ -4,7 +4,6 @@ import Footer from "./Components/Footer";
 import HeroSection from "./Components/Hero";
 import HeroSection2 from "./Components/Hero2";
 import face from './assets/images/face.png'
-import CommentSection from './Components/Box';
 import RecentlyAskedQuestions  from './Components/QA'
 import CompanyLogosSlider from './Components/CompanyLogosSlider'
 import RegisterForm from "./Components/Registration";
