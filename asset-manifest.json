@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/hamrah-bank/static/css/main.b08f98b1.css",
+    "main.js": "/hamrah-bank/static/js/main.28df9b82.js",
+    "static/media/Frame2.png": "/hamrah-bank/static/media/Frame2.7c6d119114c0a7d19d6f.png",
+    "static/media/Frame1.png": "/hamrah-bank/static/media/Frame1.47a8ff0c44f6eca6cd55.png",
+    "static/media/Qs_Iranyekan.ttf": "/hamrah-bank/static/media/Qs_Iranyekan.3fb368ca1bd556d23f46.ttf",
+    "static/media/Qs_Iranyekan extrablack.ttf": "/hamrah-bank/static/media/Qs_Iranyekan extrablack.1b55f7280f578bb5dc1b.ttf",
+    "static/media/card.png": "/hamrah-bank/static/media/card.3be1bbe4506479960bc0.png",
+    "static/media/card2.png": "/hamrah-bank/static/media/card2.807c2bd953f868bffe38.png",
+    "static/media/icon1.svg": "/hamrah-bank/static/media/icon1.a3a4b56e554fc63d86db8ee08e976e75.svg",
+    "static/media/icon2.svg": "/hamrah-bank/static/media/icon2.d59794b6c6e55974d238007ad8829f34.svg",
+    "static/media/icon3.svg": "/hamrah-bank/static/media/icon3.d047c1cec3f6ffafdf9eaa537c35b5de.svg",
+    "static/media/face.png": "/hamrah-bank/static/media/face.52f741db9b8c71e1ce22.png",
+    "static/media/web.svg": "/hamrah-bank/static/media/web.09cbe5229302d834afc5f1315f46982b.svg",
+    "static/media/apple.svg": "/hamrah-bank/static/media/apple.294abc8d5a490f6d96c97b3301add6c7.svg",
+    "static/media/location.svg": "/hamrah-bank/static/media/location.13bfcb95aba8688a12f88c1e37094868.svg",
+    "static/media/phone.svg": "/hamrah-bank/static/media/phone.93305913e1e28faa6a686a9569ddaa17.svg",
+    "static/media/slick.svg": "/hamrah-bank/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hamrah-bank/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hamrah-bank/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hamrah-bank/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/android.svg": "/hamrah-bank/static/media/android.b82cca13f69381d69e95209f72915a56.svg",
+    "static/media/dropup.svg": "/hamrah-bank/static/media/dropup.09663aa3d36db815a99c5a7924e350fa.svg",
+    "static/media/dropbutton.svg": "/hamrah-bank/static/media/dropbutton.b923a264929e605661a3950a34d7b332.svg",
+    "index.html": "/hamrah-bank/index.html",
+    "main.b08f98b1.css.map": "/hamrah-bank/static/css/main.b08f98b1.css.map",
+    "main.28df9b82.js.map": "/hamrah-bank/static/js/main.28df9b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08f98b1.css",
+    "static/js/main.28df9b82.js"
+  ]
+}
